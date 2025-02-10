@@ -21,3 +21,7 @@ To get started with the project, follow these steps:
    To start the app locally, use the following command::
    ```bash
    yarn dev
+
+
+# StackBlitz URL
+https://stackblitz.com/~/github.com/sAnjum55/freshprints-fe
